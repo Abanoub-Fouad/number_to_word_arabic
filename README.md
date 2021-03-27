@@ -1,6 +1,6 @@
 # number_to_word_arabic
 
-A new Flutter package that conver number to arabic word.
+A new Flutter package that convert number to Arabic word
 
 ## Getting Started
 
