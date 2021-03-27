@@ -1,9 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:numbertowordarabic/Tafqeet.dart';
+import 'package:number_to_word_arabic/Tafqeet.dart';
 
 void main() {
   test('Number to Word in Arabic', () {
-    final calculator = Tafeet();
-    expect(calculator.tafqeet('2'), 'غير معرف');
+    final calculator = Tafqeet();
+    expect(calculator.convert('2'), 'غير معرف');
   });
 }

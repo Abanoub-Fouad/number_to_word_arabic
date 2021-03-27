@@ -1,7 +1,8 @@
-name: numbertowordarabic
-description: A new Flutter package.
+name: number_to_word_arabic
+description: A new Flutter package that conver number to arabic word.
 version: 0.0.1
-homepage:
+author: Abanoub Fouad<abanoubfouaddev@gmail.com>
+homepage: https://github.com/abanoubfouad139/numberToWordArabic
 
 
 
