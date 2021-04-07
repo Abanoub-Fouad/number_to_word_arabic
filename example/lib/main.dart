@@ -39,7 +39,8 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              '123  تعنى : ${Tafqeet().convert('123')}',
+              '1397  تعنى : ${Tafqeet.convert('1397')}',
+              //الف وثلاثمائة وسبعة وتسعون
               textDirection: TextDirection.rtl,
               style: Theme.of(context).textTheme.headline6,
             ),

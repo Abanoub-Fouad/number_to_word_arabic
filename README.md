@@ -1,22 +1,27 @@
 # number_to_word_arabic
 
-A new Flutter package that convert number to Arabic word
+
+<img src="https://www12.0zz0.com/2021/04/07/18/194365766.png">
+
+
+A new Flutter package that convert number to arabic word.
+
 
 ## Getting Started
 
 To use this package simply
-1-### Add dependency
+
+### Add dependency
   ```yaml
   dependencies:
-    number_to_word_arabic: 0.0.1  #latest version
+    number_to_word_arabic: 0.0.5  #latest version
   ``` 
 
-Tafqeet().convert('123')
 
  ```
 import 'package:number_to_word_arabic/Tafqeet.dart';
  ...
- Tafqeet().convert('123'); //Convert Integer Number to Arabic word "مائة وثلاثة وعشرون"
+ Tafqeet.convert('123'); //Convert Integer Number to Arabic word "مائة وثلاثة وعشرون"
  
  ```
 
