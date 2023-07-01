@@ -1,9 +1,6 @@
 # number_to_word_arabic
 
 
-<img src="https://www12.0zz0.com/2021/04/07/18/194365766.png">
-
-
 A new Flutter package that convert number to arabic word.
 
 
@@ -14,7 +11,7 @@ To use this package simply
 ### Add dependency
   ```yaml
   dependencies:
-    number_to_word_arabic: 0.0.5  #latest version
+    number_to_word_arabic: 0.0.8  #latest version
   ``` 
 
 
